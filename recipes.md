@@ -115,3 +115,19 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+## Drinks
+### Rum and Coke
+
+Ingredients:
+- Ice
+- 5 oz. Cocoa-Cola 
+- 2 oz. white or dark rum
+- 1/2 oz. lime juice (optional)
+- Lime wedge, for serving
+
+Instructions:
+1. Fill a glass with ice.
+2. Add Coca-Cola and rum and stir to combine. 
+3. Add lime juice if using and garnish with lime wedge.
+
